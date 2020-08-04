@@ -1,0 +1,5 @@
+$git branch TEST // TEST라는 이름의 branch 생성
+$git checkout branchName // master에서 TEST branch로 변경
+
+// branch 생성과 checkout을 한번에 하기
+$git checkout -b branchName
